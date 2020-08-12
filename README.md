@@ -1,4 +1,4 @@
-# SocialNetworkingWebsite
+# SocialNetworkingWebsite\n
 A Social Networking website on PHP, HTML and CSS and MYSQL.
 Following these steps to open the project on your PC:
   #1. Import iwp.sql file into your PhpMyadmin.
