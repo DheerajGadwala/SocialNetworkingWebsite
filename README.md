@@ -1,5 +1,5 @@
 # SocialNetworkingWebsite  
-__A Social Networking website on PHP, HTML and CSS and MYSQL.__ 
+__A Social Networking website on PHP, HTML and CSS and MYSQL.__  
 Following these steps to open the project on your PC:  
   1. Import iwp.sql file into your PhpMyadmin.  
   2. Place the TieIn folder in your htdocs folder.  
